@@ -12,8 +12,8 @@ def home():
             <title>Simple Flask App</title>
         </head>
         <body>
-            <h1>Welcome to Your Simple Flask App!</h1>
-            <p>This is a basic Flask application deployed on Vercel.</p>
+            <h1>ITS ME YA BOY CYAN</h1>
+            <p>VERCEL SCENES.</p>
         </body>
         </html>
     """)
