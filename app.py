@@ -13,11 +13,11 @@ def home():
         </head>
         <body>
             <h1>ITS ME YA BOY CYAN</h1>
-            <p>VERCEL SCENES.</p>
+            <p>VERCEL SCENES!!!.</p>
         </body>
         </html>
     """)
 
 if __name__ == "__main__":
-    # For local testing only. Vercel will use the app instance directly.
+
     app.run(host="0.0.0.0", port=5000, debug=True)
